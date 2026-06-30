@@ -233,3 +233,41 @@ print("R2 Score :", r2)
 # ============================================================
 # END OF PROJECT
 # ============================================================
+
+
+
+
+
+
+
+
+
+Business Problem
+        ↓
+Collect Data
+        ↓
+EDA
+        ↓
+Data Cleaning
+        ↓
+Feature Engineering
+        ↓
+Feature Selection
+        ↓
+Train-Test Split
+        ↓
+Preprocessing
+        ↓
+Select Model
+        ↓
+Train Model
+        ↓
+Hyperparameter Tuning
+        ↓
+Evaluate Model
+        ↓
+Interpret Results
+        ↓
+Deploy Model
+        ↓
+Monitor & Retrain
